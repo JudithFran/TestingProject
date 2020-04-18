@@ -55,8 +55,8 @@ public class Main {
                     }
 
 
-            for(int i = 0; i<store.length ; i++)
-                for(int j = 0; j<store.length ; j++)
+            for(int i = 0; i<store2D.length ; i++)
+                for(int j = 0; j<store2D.length ; j++)
                     if(store2D[i][j] != null)
                         System.out.println("store2D[" + i + "][" + j + "] = " + store2D[i][j]);
 
