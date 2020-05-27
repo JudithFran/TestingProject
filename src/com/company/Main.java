@@ -14,51 +14,21 @@ public class Main {
         try {
             System.out.println("Hello Judith");
 
-            String[] store = new String[1000];
-            String[][] store2D = new String[1000][1000];
+            long startTime = System.currentTimeMillis();
 
-            File file = new File("F:/Deckard_Clones/Brlcad/Repository/version-10/clusters/cluster_vdb_30_5_allg_0.95_30");
+            Deckard dk = new Deckard();
+            //dk.testingDeckardInputFile();
 
-            if (file.exists()) {
+            ConQat cq = new ConQat();
+            cq.testingConQatInputFile();
 
-                BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
+            long stopTime = System.currentTimeMillis();
+            long elapsedTime = stopTime - startTime;
+            long sTime = (long) (elapsedTime*0.001);
+            long mTime = sTime/60;
+            sTime = sTime%60;
 
-                String str = "";
-                int i = 0;
-
-                while ((str = br.readLine()) != null) {
-
-                    store[i] = str;
-                    i++;
-                }
-            }
-
-            for(int i = 0; i<store.length ; i++)
-                if(store[i] != null)
-                    System.out.println("store[" + i + "] = " + store[i]);
-
-            int m = 0;
-            int n = 0;
-            int flag = 0;
-
-            for(int i = 0; i<store.length ; i++)
-                if(store[i] != null)
-                    if(!store[i].isEmpty()) {
-                        flag = 1;
-                        store2D[m][n] = store[i];
-                        n++;
-                    }
-                    else if(flag == 1){
-                        m++;
-                        n = 0;
-                        flag =0;
-                    }
-
-
-            for(int i = 0; i<store2D.length ; i++)
-                for(int j = 0; j<store2D.length ; j++)
-                    if(store2D[i][j] != null)
-                        System.out.println("store2D[" + i + "][" + j + "] = " + store2D[i][j]);
+            System.out.println("Total execution time for processing single ConQat clone file = " + mTime + " minutes " + sTime + " seconds");
 
         } catch (Exception e) {
             System.out.println("Error in main() method = " + e);
