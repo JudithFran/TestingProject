@@ -1,0 +1,741 @@
+
+000000001	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:917 TBID:404 TEID:713
+000000002	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:917 TBID:404 TEID:713
+
+
+000000006	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:95:26 NODE_KIND:131 nVARs:8 NUM_NODE:278 TBID:118 TEID:230
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:95:26 NODE_KIND:131 nVARs:8 NUM_NODE:278 TBID:118 TEID:230
+
+000000007	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:280 TBID:518 TEID:603
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:280 TBID:518 TEID:603
+
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:270 TBID:741 TEID:829
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:270 TBID:741 TEID:829
+
+000000009	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:275:14 NODE_KIND:65 nVARs:4 NUM_NODE:281 TBID:898 TEID:996
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:275:14 NODE_KIND:65 nVARs:4 NUM_NODE:281 TBID:898 TEID:996
+
+
+000000004	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:311:25 NODE_KIND:131 nVARs:3 NUM_NODE:485 TBID:1065 TEID:1226
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:311:25 NODE_KIND:131 nVARs:3 NUM_NODE:485 TBID:1065 TEID:1226
+
+
+
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:101:8 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:329 TEID:364
+000000012	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:101:8 NODE_KIND:0 nVARs:5 NUM_NODE:84 TBID:331 TEID:364
+
+000000092	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:824:6 NODE_KIND:0 nVARs:7 NUM_NODE:78 TBID:4117 TEID:4150
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:822:9 NODE_KIND:131 nVARs:8 NUM_NODE:81 TBID:4113 TEID:4151
+
+000000062	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:472:6 NODE_KIND:0 nVARs:8 NUM_NODE:78 TBID:2103 TEID:2138
+000000073	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:546:3 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2654 TEID:2689
+000000074	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:553:3 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2714 TEID:2749
+000000075	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:558:5 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2774 TEID:2809
+
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:491:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2250 TEID:2285
+000000067	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:503:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2340 TEID:2375
+000000069	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:517:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2430 TEID:2465
+000000071	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:528:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2520 TEID:2555
+000000077	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:577:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2929 TEID:2964
+000000078	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:582:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2974 TEID:3009
+000000063	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:481:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2160 TEID:2195
+000000064	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:486:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2205 TEID:2240
+000000066	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:496:6 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2295 TEID:2330
+000000068	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:509:6 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2385 TEID:2420
+000000070	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:523:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2475 TEID:2510
+000000076	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:572:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2884 TEID:2919
+000000079	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:588:5 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:3019 TEID:3054
+000000072	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:533:4 NODE_KIND:0 nVARs:6 NUM_NODE:80 TBID:2565 TEID:2600
+
+000000095	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:76:10 NODE_KIND:131 nVARs:7 NUM_NODE:86 TBID:134 TEID:172
+000000102	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:76:9 NODE_KIND:0 nVARs:7 NUM_NODE:84 TBID:134 TEID:171
+
+----------------------------------------------------------------- SINGLE CLONE CLASS = 1 -----------------------------------------------------------------------------------
+
+000000096	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:186:6 NODE_KIND:65 nVARs:6 NUM_NODE:79 TBID:405 TEID:436
+000000105	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:187:4 NODE_KIND:0 nVARs:6 NUM_NODE:78 TBID:406 TEID:435
+
+000000097	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:360:10 NODE_KIND:131 nVARs:11 NUM_NODE:87 TBID:860 TEID:894
+000000108	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:360:15 NODE_KIND:0 nVARs:11 NUM_NODE:85 TBID:862 TEID:895
+
+000000112	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:74:11 NODE_KIND:131 nVARs:4 NUM_NODE:83 TBID:77 TEID:117
+000000118	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:74:11 NODE_KIND:131 nVARs:4 NUM_NODE:83 TBID:77 TEID:117
+
+000000113	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:65:12 NODE_KIND:0 nVARs:4 NUM_NODE:84 TBID:54 TEID:87
+000000119	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:65:12 NODE_KIND:0 nVARs:4 NUM_NODE:84 TBID:54 TEID:87
+
+000000114	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:144:23 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:297 TEID:331
+000000120	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:144:23 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:297 TEID:331
+
+000000115	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:280:5 NODE_KIND:0 nVARs:3 NUM_NODE:87 TBID:935 TEID:967
+000000121	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:280:5 NODE_KIND:0 nVARs:3 NUM_NODE:87 TBID:935 TEID:967
+
+000000116	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:286:12 NODE_KIND:0 nVARs:6 NUM_NODE:79 TBID:978 TEID:1011
+000000122	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:286:12 NODE_KIND:0 nVARs:6 NUM_NODE:79 TBID:978 TEID:1011
+
+000000117	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:304:13 NODE_KIND:0 nVARs:5 NUM_NODE:83 TBID:1050 TEID:1090
+000000123	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:304:13 NODE_KIND:0 nVARs:5 NUM_NODE:83 TBID:1050 TEID:1090
+
+************************************************************************ MICRO CLONE = 1 ********************************************************************************
+
+000000130	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:108:2 NODE_KIND:65 nVARs:9 NUM_NODE:86 TBID:325 TEID:355
+000000135	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:108:2 NODE_KIND:0 nVARs:9 NUM_NODE:86 TBID:325 TEID:355
+
+000000145	dist:2.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:350:8 NODE_KIND:0 nVARs:2 NUM_NODE:83 TBID:1943 TEID:1981
+000000143	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:343:6 NODE_KIND:0 nVARs:3 NUM_NODE:85 TBID:1895 TEID:1929
+000000144	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:347:7 NODE_KIND:0 nVARs:3 NUM_NODE:84 TBID:1919 TEID:1954
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/rt/main.c LINE:115:37 NODE_KIND:65 nVARs:22 NUM_NODE:257 TBID:546 TEID:654
+000000001	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/rt/main.c LINE:116:35 NODE_KIND:65 nVARs:22 NUM_NODE:256 TBID:547 TEID:653
+
+000000003	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:60:5 NODE_KIND:131 nVARs:22 NUM_NODE:251 TBID:97 TEID:170
+000000005	dist:3.9	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:58:7 NODE_KIND:0 nVARs:23 NUM_NODE:266 TBID:91 TEID:170
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:273:47 NODE_KIND:131 nVARs:25 NUM_NODE:802 TBID:901 TEID:1212
+000000001	dist:7.1	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:324:50 NODE_KIND:131 nVARs:28 NUM_NODE:804 TBID:1213 TEID:1526
+
+
+
+000000017	dist:2.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:27:26 NODE_KIND:131 nVARs:7 NUM_NODE:179 TBID:21 TEID:76
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/rt/main.c LINE:31:10 NODE_KIND:131 nVARs:22 NUM_NODE:182 TBID:106 TEID:162
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:182 TBID:746 TEID:804
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:182 TBID:746 TEID:804
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:279:10 NODE_KIND:65 nVARs:4 NUM_NODE:183 TBID:932 TEID:996
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:279:10 NODE_KIND:65 nVARs:4 NUM_NODE:183 TBID:932 TEID:996
+
+
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:194 TBID:168 TEID:229
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:194 TBID:168 TEID:229
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:129:19 NODE_KIND:131 nVARs:7 NUM_NODE:198 TBID:231 TEID:317
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:129:19 NODE_KIND:131 nVARs:7 NUM_NODE:198 TBID:231 TEID:317
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:207 TBID:639 TEID:712
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:207 TBID:639 TEID:712
+
+000000017	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:230:13 NODE_KIND:65 nVARs:20 NUM_NODE:203 TBID:712 TEID:802
+000000018	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:243:11 NODE_KIND:65 nVARs:20 NUM_NODE:203 TBID:809 TEID:899
+
+
+000000001	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:955 TBID:391 TEID:713
+000000003	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:955 TBID:391 TEID:713
+
+000000002	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:917 TBID:404 TEID:713
+000000004	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:181:44 NODE_KIND:65 nVARs:13 NUM_NODE:917 TBID:404 TEID:713
+
+************************************************************************ MICRO CLONE = 2 ********************************************************************************
+
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:280:2 NODE_KIND:65 nVARs:6 NUM_NODE:99 TBID:921 TEID:951
+000000020	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:334:2 NODE_KIND:0 nVARs:6 NUM_NODE:99 TBID:1239 TEID:1269
+000000013	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:334:2 NODE_KIND:65 nVARs:6 NUM_NODE:99 TBID:1239 TEID:1269
+
+************************************************************************ MICRO CLONE = 3 ********************************************************************************
+
+000000036	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:348:4 NODE_KIND:0 nVARs:6 NUM_NODE:94 TBID:1675 TEID:1712
+000000037	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:358:4 NODE_KIND:0 nVARs:6 NUM_NODE:94 TBID:1767 TEID:1804
+
+************************************************************************ MICRO CLONE = 4 ********************************************************************************
+
+000000046	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:840:3 NODE_KIND:0 nVARs:7 NUM_NODE:95 TBID:4175 TEID:4215
+000000048	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:865:3 NODE_KIND:0 nVARs:7 NUM_NODE:95 TBID:4371 TEID:4411
+
+000000056	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:57:10 NODE_KIND:131 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000059	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:57:10 NODE_KIND:0 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000072	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:57:10 NODE_KIND:0 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000069	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:57:10 NODE_KIND:131 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+
+000000057	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:104 TBID:439 TEID:477
+000000061	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:187:7 NODE_KIND:0 nVARs:7 NUM_NODE:103 TBID:440 TEID:476
+000000070	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:104 TBID:439 TEID:477
+000000074	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:187:7 NODE_KIND:0 nVARs:7 NUM_NODE:103 TBID:440 TEID:476
+
+************************************************************************ MICRO CLONE = 5 ********************************************************************************
+
+000000058	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:302:4 NODE_KIND:65 nVARs:3 NUM_NODE:101 TBID:1024 TEID:1063
+000000067	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:302:4 NODE_KIND:0 nVARs:3 NUM_NODE:101 TBID:1024 TEID:1063
+000000080	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:302:4 NODE_KIND:0 nVARs:3 NUM_NODE:101 TBID:1024 TEID:1063
+000000071	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:302:4 NODE_KIND:65 nVARs:3 NUM_NODE:101 TBID:1024 TEID:1063
+
+000000060	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:177:6 NODE_KIND:0 nVARs:4 NUM_NODE:101 TBID:373 TEID:408
+000000073	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:177:6 NODE_KIND:0 nVARs:4 NUM_NODE:101 TBID:373 TEID:408
+
+************************************************************************ MICRO CLONE = 6 ********************************************************************************
+
+000000062	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:217:4 NODE_KIND:0 nVARs:3 NUM_NODE:102 TBID:641 TEID:679
+000000075	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:217:4 NODE_KIND:0 nVARs:3 NUM_NODE:102 TBID:641 TEID:679
+
+************************************************************************ MICRO CLONE = 7 ********************************************************************************
+
+000000063	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:220:2 NODE_KIND:0 nVARs:5 NUM_NODE:95 TBID:681 TEID:710
+000000076	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:220:2 NODE_KIND:0 nVARs:5 NUM_NODE:95 TBID:681 TEID:710
+
+000000064	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:256:14 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:848 TEID:878
+000000077	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:256:14 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:848 TEID:878
+
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:275:5 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:900 TEID:930
+000000078	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:275:5 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:900 TEID:930
+
+000000066	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:295:9 NODE_KIND:0 nVARs:4 NUM_NODE:96 TBID:1003 TEID:1047
+000000079	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:295:9 NODE_KIND:0 nVARs:4 NUM_NODE:96 TBID:1003 TEID:1047
+
+000000068	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:312:7 NODE_KIND:0 nVARs:2 NUM_NODE:102 TBID:1070 TEID:1108
+000000081	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:312:7 NODE_KIND:0 nVARs:2 NUM_NODE:102 TBID:1070 TEID:1108
+
+000000087	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:80:6 NODE_KIND:0 nVARs:7 NUM_NODE:103 TBID:359 TEID:397
+000000088	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:95:8 NODE_KIND:0 nVARs:7 NUM_NODE:99 TBID:545 TEID:582
+
+000000090	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:351:10 NODE_KIND:65 nVARs:2 NUM_NODE:94 TBID:1949 TEID:1989
+000000091	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:353:7 NODE_KIND:65 nVARs:2 NUM_NODE:93 TBID:1950 TEID:1988
+
+************************************************************************ MICRO CLONE = 8 ********************************************************************************
+
+000000095	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:121:2 NODE_KIND:0 nVARs:5 NUM_NODE:100 TBID:482 TEID:519
+000000096	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:127:2 NODE_KIND:0 nVARs:5 NUM_NODE:100 TBID:577 TEID:614
+
+
+
+000000044	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:302:35 NODE_KIND:0 nVARs:7 NUM_NODE:54 TBID:801 TEID:832
+000000045	dist:2.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:313:25 NODE_KIND:0 nVARs:9 NUM_NODE:55 TBID:809 TEID:840
+
+000000049	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:82:18 NODE_KIND:0 nVARs:6 NUM_NODE:60 TBID:106 TEID:138
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:82:18 NODE_KIND:0 nVARs:6 NUM_NODE:60 TBID:106 TEID:138
+
+000000050	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:96:9 NODE_KIND:0 nVARs:7 NUM_NODE:53 TBID:123 TEID:157
+000000054	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:96:9 NODE_KIND:0 nVARs:7 NUM_NODE:53 TBID:123 TEID:157
+
+000000051	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:130:8 NODE_KIND:0 nVARs:6 NUM_NODE:53 TBID:236 TEID:268
+000000055	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:130:8 NODE_KIND:0 nVARs:6 NUM_NODE:53 TBID:236 TEID:268
+
+000000052	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:164:8 NODE_KIND:0 nVARs:7 NUM_NODE:59 TBID:323 TEID:356
+000000056	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:164:8 NODE_KIND:0 nVARs:7 NUM_NODE:59 TBID:323 TEID:356
+
+000000065	dist:2.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:176:8 NODE_KIND:0 nVARs:10 NUM_NODE:57 TBID:884 TEID:919
+000000057	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:110:8 NODE_KIND:0 nVARs:11 NUM_NODE:58 TBID:40 TEID:71
+
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:228:5 NODE_KIND:65 nVARs:2 NUM_NODE:90 TBID:737 TEID:772
+000000023	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:228:5 NODE_KIND:0 nVARs:2 NUM_NODE:87 TBID:739 TEID:772
+
+----------------------------------------------------------------- SINGLE CLONE CLASS = 2 -----------------------------------------------------------------------------------
+
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:346:5 NODE_KIND:65 nVARs:8 NUM_NODE:92 TBID:1324 TEID:1357
+000000026	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:347:3 NODE_KIND:0 nVARs:8 NUM_NODE:91 TBID:1325 TEID:1356
+
+************************************************************************** MICRO CLONE = 9 ************************************************************************************
+
+000000024	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:311:4 NODE_KIND:0 nVARs:8 NUM_NODE:90 TBID:1147 TEID:1181
+000000027	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:368:3 NODE_KIND:0 nVARs:8 NUM_NODE:87 TBID:1483 TEID:1514
+
+000000033	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:59:12 NODE_KIND:131 nVARs:5 NUM_NODE:92 TBID:79 TEID:117
+000000035	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:59:10 NODE_KIND:0 nVARs:5 NUM_NODE:90 TBID:79 TEID:116
+
+************************************************************************** MICRO CLONE = 10 **********************************************************************************
+
+000000047	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:348:4 NODE_KIND:0 nVARs:6 NUM_NODE:94 TBID:1675 TEID:1712
+000000048	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:358:4 NODE_KIND:0 nVARs:6 NUM_NODE:94 TBID:1767 TEID:1804
+
+************************************************************************ MICRO CLONE = 11 *************************************************************************************
+
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:840:3 NODE_KIND:0 nVARs:7 NUM_NODE:95 TBID:4175 TEID:4215
+000000055	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:865:3 NODE_KIND:0 nVARs:7 NUM_NODE:95 TBID:4371 TEID:4411
+
+000000059	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:360:10 NODE_KIND:131 nVARs:11 NUM_NODE:87 TBID:860 TEID:894
+000000068	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:360:15 NODE_KIND:0 nVARs:11 NUM_NODE:85 TBID:862 TEID:895
+
+000000075	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:57:10 NODE_KIND:0 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000074	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:57:10 NODE_KIND:131 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000084	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:57:10 NODE_KIND:0 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+000000083	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:57:10 NODE_KIND:131 nVARs:3 NUM_NODE:95 TBID:39 TEID:76
+
+000000076	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:196:7 NODE_KIND:0 nVARs:5 NUM_NODE:89 TBID:480 TEID:513
+000000085	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:196:7 NODE_KIND:0 nVARs:5 NUM_NODE:89 TBID:480 TEID:513
+
+************************************************************************ MICRO CLONE = 12 ******************************************************************************
+
+000000077	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:220:2 NODE_KIND:0 nVARs:5 NUM_NODE:95 TBID:681 TEID:710
+000000086	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:220:2 NODE_KIND:0 nVARs:5 NUM_NODE:95 TBID:681 TEID:710
+
+000000078	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:227:6 NODE_KIND:0 nVARs:6 NUM_NODE:91 TBID:724 TEID:763
+000000087	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:227:6 NODE_KIND:0 nVARs:6 NUM_NODE:91 TBID:724 TEID:763
+
+000000079	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:256:14 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:848 TEID:878
+000000088	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:256:14 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:848 TEID:878
+
+000000080	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:275:5 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:900 TEID:930
+000000089	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:275:5 NODE_KIND:0 nVARs:2 NUM_NODE:94 TBID:900 TEID:930
+
+000000081	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:280:5 NODE_KIND:0 nVARs:3 NUM_NODE:87 TBID:935 TEID:967
+000000090	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:280:5 NODE_KIND:0 nVARs:3 NUM_NODE:87 TBID:935 TEID:967
+
+000000082	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:295:9 NODE_KIND:0 nVARs:4 NUM_NODE:96 TBID:1003 TEID:1047
+000000091	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:295:9 NODE_KIND:0 nVARs:4 NUM_NODE:96 TBID:1003 TEID:1047
+
+************************************************************************ MICRO CLONE = 13 *******************************************************************************
+
+000000097	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:63:2 NODE_KIND:0 nVARs:3 NUM_NODE:92 TBID:117 TEID:154
+000000098	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:69:2 NODE_KIND:0 nVARs:3 NUM_NODE:92 TBID:190 TEID:227
+
+************************************************************************ MICRO CLONE = 14 ********************************************************************************
+
+000000107	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:108:2 NODE_KIND:0 nVARs:9 NUM_NODE:86 TBID:325 TEID:355
+000000101	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:108:2 NODE_KIND:65 nVARs:9 NUM_NODE:86 TBID:325 TEID:355
+
+000000102	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:351:10 NODE_KIND:65 nVARs:2 NUM_NODE:94 TBID:1949 TEID:1989
+000000103	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:353:7 NODE_KIND:65 nVARs:2 NUM_NODE:93 TBID:1950 TEID:1988
+
+
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:152:8 NODE_KIND:65 nVARs:5 NUM_NODE:65 TBID:467 TEID:496
+000000006	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:212:8 NODE_KIND:65 nVARs:5 NUM_NODE:65 TBID:673 TEID:702
+
+000000037	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:261:9 NODE_KIND:131 nVARs:5 NUM_NODE:61 TBID:667 TEID:700
+000000041	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:263:12 NODE_KIND:0 nVARs:5 NUM_NODE:59 TBID:675 TEID:708
+
+000000045	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:82:18 NODE_KIND:0 nVARs:6 NUM_NODE:60 TBID:106 TEID:138
+000000048	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:82:18 NODE_KIND:0 nVARs:6 NUM_NODE:60 TBID:106 TEID:138
+
+000000046	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:116:20 NODE_KIND:0 nVARs:7 NUM_NODE:64 TBID:221 TEID:258
+000000049	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:116:20 NODE_KIND:0 nVARs:7 NUM_NODE:64 TBID:221 TEID:258
+
+000000047	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:164:8 NODE_KIND:0 nVARs:7 NUM_NODE:59 TBID:323 TEID:356
+000000050	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:164:8 NODE_KIND:0 nVARs:7 NUM_NODE:59 TBID:323 TEID:356
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:163:81 NODE_KIND:131 nVARs:17 NUM_NODE:1457 TBID:318 TEID:831
+000000001	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:163:81 NODE_KIND:131 nVARs:17 NUM_NODE:1457 TBID:318 TEID:831
+
+
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:152:8 NODE_KIND:65 nVARs:5 NUM_NODE:65 TBID:467 TEID:496
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:212:8 NODE_KIND:65 nVARs:5 NUM_NODE:65 TBID:673 TEID:702
+
+000000020	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:487:10 NODE_KIND:0 nVARs:5 NUM_NODE:69 TBID:1884 TEID:1918
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:487:11 NODE_KIND:131 nVARs:6 NUM_NODE:72 TBID:1882 TEID:1919
+
+000000033	dist:2.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:186:11 NODE_KIND:0 nVARs:7 NUM_NODE:71 TBID:256 TEID:286
+000000025	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:184:8 NODE_KIND:131 nVARs:8 NUM_NODE:67 TBID:252 TEID:281
+000000026	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:282:8 NODE_KIND:131 nVARs:8 NUM_NODE:67 TBID:521 TEID:550
+
+000000030	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:126:25 NODE_KIND:0 nVARs:4 NUM_NODE:65 TBID:174 TEID:203
+000000031	dist:2.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:129:25 NODE_KIND:0 nVARs:4 NUM_NODE:65 TBID:179 TEID:208
+
+000000044	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:748:6 NODE_KIND:65 nVARs:8 NUM_NODE:70 TBID:3715 TEID:3748
+000000055	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:748:6 NODE_KIND:0 nVARs:8 NUM_NODE:71 TBID:3714 TEID:3748
+
+000000050	dist:2.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:538:7 NODE_KIND:0 nVARs:7 NUM_NODE:70 TBID:2610 TEID:2641
+000000051	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:567:3 NODE_KIND:0 nVARs:7 NUM_NODE:67 TBID:2834 TEID:2865
+000000049	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:461:6 NODE_KIND:0 nVARs:8 NUM_NODE:66 TBID:2049 TEID:2078
+
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:40:10 NODE_KIND:131 nVARs:3 NUM_NODE:70 TBID:6 TEID:38
+000000066	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:44:16 NODE_KIND:0 nVARs:3 NUM_NODE:68 TBID:16 TEID:47
+000000071	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:40:10 NODE_KIND:131 nVARs:3 NUM_NODE:70 TBID:6 TEID:38
+000000072	dist:1.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:44:16 NODE_KIND:0 nVARs:3 NUM_NODE:68 TBID:16 TEID:47
+
+000000067	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:116:20 NODE_KIND:0 nVARs:7 NUM_NODE:64 TBID:221 TEID:258
+000000073	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:116:20 NODE_KIND:0 nVARs:7 NUM_NODE:64 TBID:221 TEID:258
+
+000000068	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:170:8 NODE_KIND:0 nVARs:7 NUM_NODE:72 TBID:343 TEID:376
+000000074	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:170:8 NODE_KIND:0 nVARs:7 NUM_NODE:72 TBID:343 TEID:376
+
+000000069	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:252:6 NODE_KIND:0 nVARs:3 NUM_NODE:67 TBID:832 TEID:863
+000000075	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:252:6 NODE_KIND:0 nVARs:3 NUM_NODE:67 TBID:832 TEID:863
+
+000000070	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:270:7 NODE_KIND:0 nVARs:4 NUM_NODE:69 TBID:879 TEID:915
+000000076	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:270:7 NODE_KIND:0 nVARs:4 NUM_NODE:69 TBID:879 TEID:915
+
+
+
+000000007	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:219 TBID:158 TEID:229
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:219 TBID:158 TEID:229
+
+000000009	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:230:13 NODE_KIND:65 nVARs:20 NUM_NODE:219 TBID:706 TEID:802
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:243:11 NODE_KIND:65 nVARs:20 NUM_NODE:219 TBID:803 TEID:899
+
+
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:612:9 NODE_KIND:65 nVARs:7 NUM_NODE:75 TBID:3116 TEID:3153
+000000105	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:613:7 NODE_KIND:0 nVARs:7 NUM_NODE:74 TBID:3117 TEID:3152
+
+000000057	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:222:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:788 TEID:822
+000000058	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:227:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:823 TEID:857
+000000059	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:232:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:858 TEID:892
+000000060	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:237:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:893 TEID:927
+000000061	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:242:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:928 TEID:962
+000000062	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:247:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:963 TEID:997
+000000063	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:252:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:998 TEID:1032
+000000064	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:257:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1033 TEID:1067
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:262:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1068 TEID:1102
+000000066	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:267:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1103 TEID:1137
+000000067	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:272:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1138 TEID:1172
+000000068	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:277:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1173 TEID:1207
+000000069	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:282:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1208 TEID:1242
+000000070	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:287:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1243 TEID:1277
+000000071	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:292:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1278 TEID:1312
+000000072	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:297:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1313 TEID:1347
+000000073	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:302:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1348 TEID:1382
+000000074	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:307:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1383 TEID:1417
+000000075	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:312:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1418 TEID:1452
+000000076	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:317:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1453 TEID:1487
+000000077	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:322:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1488 TEID:1522
+000000078	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:327:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1523 TEID:1557
+000000079	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:332:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1558 TEID:1592
+000000080	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:337:5 NODE_KIND:0 nVARs:6 NUM_NODE:75 TBID:1593 TEID:1627
+
+000000086	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:472:6 NODE_KIND:0 nVARs:8 NUM_NODE:78 TBID:2103 TEID:2138
+000000097	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:546:3 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2654 TEID:2689
+000000098	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:553:3 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2714 TEID:2749
+000000099	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:558:5 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:2774 TEID:2809
+
+000000089	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:491:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2250 TEID:2285
+000000091	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:503:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2340 TEID:2375
+000000093	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:517:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2430 TEID:2465
+000000095	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:528:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2520 TEID:2555
+000000101	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:577:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2929 TEID:2964
+000000102	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:582:4 NODE_KIND:0 nVARs:4 NUM_NODE:80 TBID:2974 TEID:3009
+000000087	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:481:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2160 TEID:2195
+000000088	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:486:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2205 TEID:2240
+000000090	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:496:6 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2295 TEID:2330
+000000092	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:509:6 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2385 TEID:2420
+000000094	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:523:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2475 TEID:2510
+000000100	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:572:4 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:2884 TEID:2919
+000000103	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:588:5 NODE_KIND:0 nVARs:5 NUM_NODE:80 TBID:3019 TEID:3054
+000000096	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:533:4 NODE_KIND:0 nVARs:6 NUM_NODE:80 TBID:2565 TEID:2600
+
+************************************************************************ MICRO CLONE = 15 ********************************************************************************
+
+000000120	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:176:4 NODE_KIND:65 nVARs:7 NUM_NODE:76 TBID:351 TEID:384
+000000126	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:176:4 NODE_KIND:0 nVARs:7 NUM_NODE:73 TBID:353 TEID:384
+
+----------------------------------------------------------------- SINGLE CLONE CLASS = 3 -----------------------------------------------------------------------------------
+
+000000121	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:186:6 NODE_KIND:65 nVARs:6 NUM_NODE:79 TBID:405 TEID:436
+000000127	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:187:4 NODE_KIND:0 nVARs:6 NUM_NODE:78 TBID:406 TEID:435
+
+000000135	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:32:18 NODE_KIND:0 nVARs:4 NUM_NODE:77 TBID:0 TEID:38
+000000142	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:32:18 NODE_KIND:0 nVARs:4 NUM_NODE:77 TBID:0 TEID:38
+
+000000136	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:76:8 NODE_KIND:0 nVARs:3 NUM_NODE:76 TBID:84 TEID:116
+000000143	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:76:8 NODE_KIND:0 nVARs:3 NUM_NODE:76 TBID:84 TEID:116
+
+000000137	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:101:9 NODE_KIND:0 nVARs:5 NUM_NODE:77 TBID:140 TEID:175
+000000144	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:101:9 NODE_KIND:0 nVARs:5 NUM_NODE:77 TBID:140 TEID:175
+
+000000138	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:135:8 NODE_KIND:0 nVARs:4 NUM_NODE:77 TBID:253 TEID:286
+000000145	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:135:8 NODE_KIND:0 nVARs:4 NUM_NODE:77 TBID:253 TEID:286
+
+000000139	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:144:23 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:297 TEID:331
+000000146	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:144:23 NODE_KIND:0 nVARs:9 NUM_NODE:78 TBID:297 TEID:331
+
+000000140	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:170:8 NODE_KIND:0 nVARs:7 NUM_NODE:72 TBID:343 TEID:376
+000000147	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:170:8 NODE_KIND:0 nVARs:7 NUM_NODE:72 TBID:343 TEID:376
+
+000000141	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:286:12 NODE_KIND:0 nVARs:6 NUM_NODE:79 TBID:978 TEID:1011
+000000148	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:286:12 NODE_KIND:0 nVARs:6 NUM_NODE:79 TBID:978 TEID:1011
+
+************************************************************************ MICRO CLONE = 16 ********************************************************************************
+
+000000166	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:241:4 NODE_KIND:0 nVARs:6 NUM_NODE:76 TBID:1330 TEID:1365
+000000167	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:246:4 NODE_KIND:0 nVARs:7 NUM_NODE:76 TBID:1375 TEID:1410
+000000150	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:169:4 NODE_KIND:0 nVARs:7 NUM_NODE:76 TBID:408 TEID:443
+
+000000157	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:211:6 NODE_KIND:65 nVARs:8 NUM_NODE:80 TBID:1178 TEID:1215
+000000165	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:211:6 NODE_KIND:0 nVARs:8 NUM_NODE:77 TBID:1180 TEID:1215
+
+
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:163:81 NODE_KIND:131 nVARs:17 NUM_NODE:1457 TBID:318 TEID:831
+000000001	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:163:81 NODE_KIND:131 nVARs:17 NUM_NODE:1457 TBID:318 TEID:831
+
+
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:23:14 NODE_KIND:0 nVARs:9 NUM_NODE:49 TBID:14 TEID:45
+000000006	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:25:13 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:24 TEID:54
+000000008	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:35:15 NODE_KIND:0 nVARs:10 NUM_NODE:48 TBID:44 TEID:76
+000000011	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:63:14 NODE_KIND:0 nVARs:10 NUM_NODE:47 TBID:93 TEID:125
+
+000000006	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:25:13 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:24 TEID:54
+000000010	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:61:12 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:86 TEID:115
+000000007	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:31:18 NODE_KIND:0 nVARs:10 NUM_NODE:48 TBID:39 TEID:69
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/rt/main.c LINE:97:8 NODE_KIND:65 nVARs:9 NUM_NODE:143 TBID:425 TEID:468
+000000001	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/rt/main.c LINE:104:8 NODE_KIND:65 nVARs:9 NUM_NODE:143 TBID:470 TEID:513
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:50:11 NODE_KIND:131 nVARs:12 NUM_NODE:143 TBID:56 TEID:118
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_funcs.c LINE:62:11 NODE_KIND:131 nVARs:12 NUM_NODE:143 TBID:119 TEID:177
+
+000000022	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:434:12 NODE_KIND:65 nVARs:11 NUM_NODE:133 TBID:1102 TEID:1160
+000000021	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:432:15 NODE_KIND:131 nVARs:12 NUM_NODE:136 TBID:1098 TEID:1161
+
+000000023	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:139 TBID:269 TEID:316
+000000029	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:139 TBID:269 TEID:316
+
+000000024	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:149 TBID:424 TEID:477
+000000030	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:149 TBID:424 TEID:477
+
+000000025	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:144 TBID:759 TEID:804
+000000031	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:144 TBID:759 TEID:804
+
+000000026	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:294:13 NODE_KIND:131 nVARs:5 NUM_NODE:143 TBID:998 TEID:1064
+000000032	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:294:13 NODE_KIND:131 nVARs:5 NUM_NODE:143 TBID:998 TEID:1064
+
+000000028	dist:3.3	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:231:5 NODE_KIND:0 nVARs:5 NUM_NODE:140 TBID:748 TEID:792
+000000027	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:202:5 NODE_KIND:0 nVARs:6 NUM_NODE:149 TBID:507 TEID:554
+000000034	dist:3.3	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:231:5 NODE_KIND:0 nVARs:5 NUM_NODE:140 TBID:748 TEID:792
+000000033	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:202:5 NODE_KIND:0 nVARs:6 NUM_NODE:149 TBID:507 TEID:554
+
+
+000000006	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:23:14 NODE_KIND:0 nVARs:9 NUM_NODE:49 TBID:14 TEID:45
+000000007	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:25:13 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:24 TEID:54
+000000009	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:35:15 NODE_KIND:0 nVARs:10 NUM_NODE:48 TBID:44 TEID:76
+
+000000007	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:25:13 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:24 TEID:54
+000000014	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:61:12 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:86 TEID:115
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:31:18 NODE_KIND:0 nVARs:10 NUM_NODE:48 TBID:39 TEID:69
+
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:37:14 NODE_KIND:0 nVARs:7 NUM_NODE:50 TBID:52 TEID:81
+000000007	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:25:13 NODE_KIND:0 nVARs:9 NUM_NODE:48 TBID:24 TEID:54
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:48:19 NODE_KIND:0 nVARs:9 NUM_NODE:51 TBID:69 TEID:102
+000000013	dist:2.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:50:19 NODE_KIND:0 nVARs:9 NUM_NODE:49 TBID:79 TEID:108
+
+000000021	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:39:17 NODE_KIND:0 nVARs:7 NUM_NODE:53 TBID:48 TEID:77
+000000020	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_wind.c LINE:36:16 NODE_KIND:0 nVARs:8 NUM_NODE:52 TBID:38 TEID:67
+
+000000033	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:96:9 NODE_KIND:0 nVARs:7 NUM_NODE:53 TBID:123 TEID:157
+000000035	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:96:9 NODE_KIND:0 nVARs:7 NUM_NODE:53 TBID:123 TEID:157
+
+000000034	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:130:8 NODE_KIND:0 nVARs:6 NUM_NODE:53 TBID:236 TEID:268
+000000036	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:130:8 NODE_KIND:0 nVARs:6 NUM_NODE:53 TBID:236 TEID:268
+
+
+000000004	dist:2.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:356:10 NODE_KIND:65 nVARs:11 NUM_NODE:148 TBID:1393 TEID:1460
+000000003	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:302:10 NODE_KIND:65 nVARs:12 NUM_NODE:153 TBID:1077 TEID:1146
+
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:149 TBID:424 TEID:477
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:149 TBID:424 TEID:477
+
+************************************************************************ MICRO CLONE = 17 ********************************************************************************
+
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:150 TBID:661 TEID:711
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:219:4 NODE_KIND:0 nVARs:6 NUM_NODE:150 TBID:661 TEID:711
+000000019	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:219:4 NODE_KIND:0 nVARs:6 NUM_NODE:150 TBID:661 TEID:711
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:150 TBID:661 TEID:711
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:144 TBID:759 TEID:804
+000000017	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:231:7 NODE_KIND:65 nVARs:5 NUM_NODE:144 TBID:759 TEID:804
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:202:5 NODE_KIND:0 nVARs:6 NUM_NODE:149 TBID:507 TEID:554
+000000018	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:202:5 NODE_KIND:0 nVARs:6 NUM_NODE:149 TBID:507 TEID:554
+
+
+
+000000007	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:346 TBID:714 TEID:830
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:346 TBID:714 TEID:830
+
+
+000000005	dist:3.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:448:14 NODE_KIND:65 nVARs:7 NUM_NODE:214 TBID:1707 TEID:1776
+000000004	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:448:14 NODE_KIND:65 nVARs:8 NUM_NODE:223 TBID:1703 TEID:1776
+
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:219 TBID:158 TEID:229
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:107:13 NODE_KIND:65 nVARs:7 NUM_NODE:219 TBID:158 TEID:229
+
+000000011	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:207 TBID:639 TEID:712
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:207 TBID:639 TEID:712
+
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:230:13 NODE_KIND:65 nVARs:20 NUM_NODE:219 TBID:706 TEID:802
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:243:11 NODE_KIND:65 nVARs:20 NUM_NODE:219 TBID:803 TEID:899
+
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:230:13 NODE_KIND:65 nVARs:20 NUM_NODE:203 TBID:712 TEID:802
+000000017	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_ell.c LINE:243:11 NODE_KIND:65 nVARs:20 NUM_NODE:203 TBID:809 TEID:899
+
+
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:186:18 NODE_KIND:0 nVARs:1 NUM_NODE:122 TBID:553 TEID:592
+000000010	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:184:20 NODE_KIND:0 nVARs:2 NUM_NODE:123 TBID:549 TEID:592
+
+************************************************************************ MICRO CLONE = 18 ********************************************************************************
+
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:339:4 NODE_KIND:65 nVARs:5 NUM_NODE:126 TBID:1270 TEID:1310
+000000020	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:339:4 NODE_KIND:0 nVARs:5 NUM_NODE:126 TBID:1270 TEID:1310
+
+000000034	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:60:8 NODE_KIND:65 nVARs:3 NUM_NODE:113 TBID:91 TEID:129
+000000035	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:61:6 NODE_KIND:65 nVARs:3 NUM_NODE:112 TBID:92 TEID:128
+
+000000041	dist:2.6	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+000000040	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:113:6 NODE_KIND:65 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000045	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:113:6 NODE_KIND:0 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000056	dist:2.6	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+000000060	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:113:6 NODE_KIND:0 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000055	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:113:6 NODE_KIND:65 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+
+************************************************************************ MICRO CLONE = 19 ********************************************************************************
+
+000000042	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:112 TBID:674 TEID:711
+000000057	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:112 TBID:674 TEID:711
+
+000000043	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:252:9 NODE_KIND:131 nVARs:3 NUM_NODE:112 TBID:832 TEID:877
+000000058	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:252:9 NODE_KIND:131 nVARs:3 NUM_NODE:112 TBID:832 TEID:877
+
+000000044	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:107:7 NODE_KIND:0 nVARs:5 NUM_NODE:116 TBID:161 TEID:197
+000000059	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:107:7 NODE_KIND:0 nVARs:5 NUM_NODE:116 TBID:161 TEID:197
+
+000000046	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:0 nVARs:6 NUM_NODE:122 TBID:276 TEID:316
+000000041	dist:3.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+000000061	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:0 nVARs:6 NUM_NODE:122 TBID:276 TEID:316
+000000056	dist:3.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+
+000000047	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:181:6 NODE_KIND:0 nVARs:5 NUM_NODE:116 TBID:393 TEID:431
+000000062	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:181:6 NODE_KIND:0 nVARs:5 NUM_NODE:116 TBID:393 TEID:431
+
+000000048	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:185:5 NODE_KIND:0 nVARs:5 NUM_NODE:125 TBID:413 TEID:454
+000000063	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:185:5 NODE_KIND:0 nVARs:5 NUM_NODE:125 TBID:413 TEID:454
+
+************************************************************************ MICRO CLONE = 20 ********************************************************************************
+
+000000049	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:206:2 NODE_KIND:0 nVARs:6 NUM_NODE:119 TBID:537 TEID:571
+000000051	dist:3.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:235:4 NODE_KIND:0 nVARs:7 NUM_NODE:123 TBID:775 TEID:811
+000000064	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:206:2 NODE_KIND:0 nVARs:6 NUM_NODE:119 TBID:537 TEID:571
+000000066	dist:3.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:235:4 NODE_KIND:0 nVARs:7 NUM_NODE:123 TBID:775 TEID:811
+
+************************************************************************ MICRO CLONE = 21 ********************************************************************************
+
+000000050	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:213:4 NODE_KIND:0 nVARs:6 NUM_NODE:119 TBID:604 TEID:638
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:213:4 NODE_KIND:0 nVARs:6 NUM_NODE:119 TBID:604 TEID:638
+
+000000052	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:318:5 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1100 TEID:1135
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:324:5 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1145 TEID:1180
+000000054	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:331:4 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1190 TEID:1225
+000000067	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:318:5 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1100 TEID:1135
+000000068	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:324:5 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1145 TEID:1180
+000000069	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:331:4 NODE_KIND:0 nVARs:2 NUM_NODE:116 TBID:1190 TEID:1225
+
+000000073	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:286:10 NODE_KIND:65 nVARs:12 NUM_NODE:119 TBID:1580 TEID:1631
+000000074	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/g_arb.c LINE:295:10 NODE_KIND:65 nVARs:12 NUM_NODE:119 TBID:1633 TEID:1684
+
+
+
+
+000000000	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:299:20 NODE_KIND:65 nVARs:17 NUM_NODE:400 TBID:1045 TEID:1211
+000000001	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:352:21 NODE_KIND:65 nVARs:19 NUM_NODE:401 TBID:1358 TEID:1525
+
+
+000000008	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:95:26 NODE_KIND:131 nVARs:8 NUM_NODE:278 TBID:118 TEID:230
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:95:26 NODE_KIND:131 nVARs:8 NUM_NODE:278 TBID:118 TEID:230
+
+000000009	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:280 TBID:518 TEID:603
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:280 TBID:518 TEID:603
+
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:308 TBID:727 TEID:830
+000000011	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:307 TBID:728 TEID:829
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:308 TBID:727 TEID:830
+000000017	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:307 TBID:728 TEID:829
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:269:21 NODE_KIND:131 nVARs:5 NUM_NODE:306 TBID:878 TEID:997
+000000018	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:269:21 NODE_KIND:131 nVARs:5 NUM_NODE:306 TBID:878 TEID:997
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:275:14 NODE_KIND:65 nVARs:4 NUM_NODE:281 TBID:898 TEID:996
+000000019	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:275:14 NODE_KIND:65 nVARs:4 NUM_NODE:281 TBID:898 TEID:996
+
+
+
+
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:186:18 NODE_KIND:0 nVARs:1 NUM_NODE:122 TBID:553 TEID:592
+000000008	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_term.c LINE:184:20 NODE_KIND:0 nVARs:2 NUM_NODE:123 TBID:549 TEID:592
+
+000000010	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:112:10 NODE_KIND:65 nVARs:11 NUM_NODE:131 TBID:272 TEID:326
+000000009	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_marks.c LINE:110:13 NODE_KIND:131 nVARs:12 NUM_NODE:134 TBID:268 TEID:327
+
+************************************************************************ MICRO CLONE = 22 ********************************************************************************
+
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:339:4 NODE_KIND:65 nVARs:5 NUM_NODE:126 TBID:1270 TEID:1310
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:339:4 NODE_KIND:0 nVARs:5 NUM_NODE:126 TBID:1270 TEID:1310
+
+000000030	dist:1.7	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:434:12 NODE_KIND:65 nVARs:11 NUM_NODE:133 TBID:1102 TEID:1160
+000000029	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:432:15 NODE_KIND:131 nVARs:12 NUM_NODE:136 TBID:1098 TEID:1161
+
+000000032	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:0 nVARs:6 NUM_NODE:122 TBID:276 TEID:316
+000000035	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:0 nVARs:6 NUM_NODE:122 TBID:276 TEID:316
+
+000000033	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:185:5 NODE_KIND:0 nVARs:5 NUM_NODE:125 TBID:413 TEID:454
+000000036	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:185:5 NODE_KIND:0 nVARs:5 NUM_NODE:125 TBID:413 TEID:454
+
+************************************************************************ MICRO CLONE = 23 ********************************************************************************
+
+000000034	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:235:4 NODE_KIND:0 nVARs:7 NUM_NODE:123 TBID:775 TEID:811
+000000037	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:235:4 NODE_KIND:0 nVARs:7 NUM_NODE:123 TBID:775 TEID:811
+
+
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:68:6 NODE_KIND:65 nVARs:7 NUM_NODE:109 TBID:139 TEID:174
+000000020	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:68:6 NODE_KIND:0 nVARs:7 NUM_NODE:109 TBID:139 TEID:174
+
+----------------------------------------------------------------- SINGLE CLONE CLASS = 4 -----------------------------------------------------------------------------------
+
+000000030	dist:2.4	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:629:4 NODE_KIND:0 nVARs:4 NUM_NODE:104 TBID:2527 TEID:2559
+000000028	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:448:5 NODE_KIND:0 nVARs:5 NUM_NODE:110 TBID:1705 TEID:1740
+
+000000041	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:60:8 NODE_KIND:65 nVARs:3 NUM_NODE:113 TBID:91 TEID:129
+000000042	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_draw.c LINE:61:6 NODE_KIND:65 nVARs:3 NUM_NODE:112 TBID:92 TEID:128
+
+000000050	dist:2.6	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+000000054	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:113:6 NODE_KIND:0 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000049	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:113:6 NODE_KIND:65 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000059	dist:2.6	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:140:7 NODE_KIND:65 nVARs:6 NUM_NODE:114 TBID:279 TEID:316
+000000063	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:113:6 NODE_KIND:0 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+000000058	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:113:6 NODE_KIND:65 nVARs:7 NUM_NODE:113 TBID:192 TEID:228
+
+000000051	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:104 TBID:439 TEID:477
+000000055	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:187:7 NODE_KIND:0 nVARs:7 NUM_NODE:103 TBID:440 TEID:476
+000000060	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:186:9 NODE_KIND:65 nVARs:7 NUM_NODE:104 TBID:439 TEID:477
+000000064	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:187:7 NODE_KIND:0 nVARs:7 NUM_NODE:103 TBID:440 TEID:476
+
+************************************************************************ MICRO CLONE = 24 ********************************************************************************
+
+000000052	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:112 TBID:674 TEID:711
+000000061	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:219:4 NODE_KIND:65 nVARs:6 NUM_NODE:112 TBID:674 TEID:711
+
+000000053	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:252:9 NODE_KIND:131 nVARs:3 NUM_NODE:112 TBID:832 TEID:877
+000000062	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:252:9 NODE_KIND:131 nVARs:3 NUM_NODE:112 TBID:832 TEID:877
+
+************************************************************************ MICRO CLONE = 25 ********************************************************************************
+
+000000056	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:217:4 NODE_KIND:0 nVARs:3 NUM_NODE:102 TBID:641 TEID:679
+000000065	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:217:4 NODE_KIND:0 nVARs:3 NUM_NODE:102 TBID:641 TEID:679
+
+000000057	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:312:7 NODE_KIND:0 nVARs:2 NUM_NODE:102 TBID:1070 TEID:1108
+000000066	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:312:7 NODE_KIND:0 nVARs:2 NUM_NODE:102 TBID:1070 TEID:1108
+
+************************************************************************ MICRO CLONE = 26 ********************************************************************************
+
+000000071	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:88:4 NODE_KIND:0 nVARs:4 NUM_NODE:106 TBID:440 TEID:481
+000000072	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/tree.c LINE:105:4 NODE_KIND:0 nVARs:4 NUM_NODE:106 TBID:625 TEID:666
+
+
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:302:17 NODE_KIND:65 nVARs:15 NUM_NODE:328 TBID:1073 TEID:1211
+000000006	dist:2.2	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:356:17 NODE_KIND:65 nVARs:15 NUM_NODE:323 TBID:1389 TEID:1525
+
+000000009	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:318 TBID:505 TEID:603
+000000013	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:202:10 NODE_KIND:65 nVARs:8 NUM_NODE:318 TBID:505 TEID:603
+
+000000010	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:308 TBID:727 TEID:830
+000000011	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:307 TBID:728 TEID:829
+000000014	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:227:16 NODE_KIND:65 nVARs:7 NUM_NODE:308 TBID:727 TEID:830
+000000015	dist:1.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:228:14 NODE_KIND:65 nVARs:7 NUM_NODE:307 TBID:728 TEID:829
+
+000000012	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:269:21 NODE_KIND:131 nVARs:5 NUM_NODE:306 TBID:878 TEID:997
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:269:21 NODE_KIND:131 nVARs:5 NUM_NODE:306 TBID:878 TEID:997
+
+
+
+
+000000002	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:311:25 NODE_KIND:131 nVARs:3 NUM_NODE:485 TBID:1065 TEID:1226
+000000003	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:311:25 NODE_KIND:131 nVARs:3 NUM_NODE:485 TBID:1065 TEID:1226
+
+
+000000005	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:311:8 NODE_KIND:65 nVARs:10 NUM_NODE:165 TBID:1148 TEID:1211
+000000006	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/jove/jove_screen.c LINE:365:8 NODE_KIND:65 nVARs:10 NUM_NODE:165 TBID:1462 TEID:1525
+
+000000015	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/libbn/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:169 TBID:652 TEID:712
+000000016	dist:0.0	FILE /home/judith/Deckard_Clones/Brlcad/Repository/version-12/librt/mat.c LINE:217:7 NODE_KIND:65 nVARs:6 NUM_NODE:169 TBID:652 TEID:712
+

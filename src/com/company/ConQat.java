@@ -5,7 +5,9 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-class CodeFragment {
+
+
+class CodeFragmentConQat {
 
     int revision = -1;
     String filepath = "";
@@ -86,7 +88,10 @@ public class ConQat {
                 int j = -1;
                 int k = 0;
                 String[] sourceFile = new String[500];
-                CodeFragment[][] cfFile = new CodeFragment[1000][1000];
+                CodeFragmentConQat[][] cfFile = new CodeFragmentConQat[1000][1000];
+                CodeFragmentConQat[][] cfFileRegular = new CodeFragmentConQat[1000][1000];
+                CodeFragmentConQat[][] cfFileMicro = new CodeFragmentConQat[1000][1000];
+                int microFlag = 0;
 
                 while ((str = br.readLine()) != null) {
 
@@ -97,34 +102,46 @@ public class ConQat {
                     }
 
                     if (str.contains("<cloneClass ")) {
-                        i++;
-                        j = -1;
-                        continue;
+                        if(microFlag == 0) {
+                            i++;
+                            j = -1;
+                            continue;
+                        }
+                        else if(microFlag == 1)
+                            microFlag = 0;
                     }
 
                     if (str.contains("<clone ")) {
 
                         j++;
+                        int sourceFileID, startLine, endLine;
+                        cfFile[i][j] = new CodeFragmentConQat();
+                        startLine = Integer.parseInt(str.split("[\"]+")[5].trim());
+                        endLine = Integer.parseInt(str.split("[\"]+")[7].trim());
 
-                        int sourceFileID;
-                        cfFile[i][j] = new CodeFragment();
+                        if((endLine - startLine)+1 > 4) {
 
-                        cfFile[i][j].startline = Integer.parseInt(str.split("[\"]+")[5].trim());
-                        System.out.println("cfFile[" + i + "][" + j + "].startline = " + cfFile[i][j].startline);
+                            cfFile[i][j].startline = Integer.parseInt(str.split("[\"]+")[5].trim());
+                            System.out.print("cfFile[" + i + "][" + j + "].startline = " + cfFile[i][j].startline);
 
-                        cfFile[i][j].endline = Integer.parseInt(str.split("[\"]+")[7].trim());
-                        System.out.println("cfFile[" + i + "][" + j + "].endline = " + cfFile[i][j].endline);
+                            cfFile[i][j].endline = Integer.parseInt(str.split("[\"]+")[7].trim());
+                            System.out.print(" cfFile[" + i + "][" + j + "].endline = " + cfFile[i][j].endline);
 
-                        sourceFileID = Integer.parseInt(str.split("[\"]+")[13].trim());
-                        System.out.println("sourceFileID = " + sourceFileID);
+                            sourceFileID = Integer.parseInt(str.split("[\"]+")[13].trim());
+                            System.out.print(" sourceFileID = " + sourceFileID);
 
-                        String filePath = "";
-                        for(k = 0; sourceFile[k] != null; k++)
-                            if(sourceFileID == Integer.parseInt(sourceFile[k].split("[\"]+")[1].trim())) {
-                                filePath = sourceFile[k].split("[\"]+")[3].trim();
-                                cfFile[i][j].filepath = filePath.split("project/")[1].trim();
-                            }
-                        System.out.println("cfFile[" + i + "][" + j + "].filepath = " + cfFile[i][j].filepath);
+                            String filePath = "";
+                            for (k = 0; sourceFile[k] != null; k++)
+                                if (sourceFileID == Integer.parseInt(sourceFile[k].split("[\"]+")[1].trim())) {
+                                    filePath = sourceFile[k].split("[\"]+")[3].trim();
+                                    cfFile[i][j].filepath = filePath.split("project/")[1].trim();
+                                }
+                            System.out.println(" cfFile[" + i + "][" + j + "].filepath = " + cfFile[i][j].filepath);
+                        }
+                        else {
+                            microFlag = 1;
+                            j--;
+                        }
                     }
                 }
             }
