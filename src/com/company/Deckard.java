@@ -131,6 +131,29 @@ public class Deckard {
                     break;
             }
 
+            // Previous buggy procedure for reading a clone file
+            for (int i = 0; i < store2D.length; i++)
+                for (int j = 0; j < store2D.length; j++)
+                    if (store2D[i][j] != null) {
+                        cfFile[i][j] = new CodeFragmentDeckard();
+                        cfFile[i][j].revision = 12;
+                        cfFile[i][j].filepath = store2D[i][j].split("[ ]+")[1].trim();
+                        String[] filePath = cfFile[i][j].filepath.split("version-\\d*\\/");
+                        cfFile[i][j].filepath = filePath[1];
+                        //System.out.println("**********************Testing for Deckard version. This is inside fileRead method for testing.*******************************");
+                        //System.out.println(" i = " + i + " j = " + j + " cfFile[i][j].filepath = " + cfFile[i][j].filepath);
+                        cfFile[i][j].startline = Integer.parseInt(store2D[i][j].split("[:]+")[2].trim());
+                        //System.out.println(" i = " + i + " j = " + j + " cfFile[i][j].startline = " + cfFile[i][j].startline);
+                        String cs = store2D[i][j].split("[:]+")[3].trim();
+                        int cloneSize = Integer.parseInt(cs.split("[ ]+")[0].trim());
+                        if(cloneSize>4) {
+                            cfFile[i][j].endline = cfFile[i][j].startline + cloneSize;
+                            //System.out.println(" i = " + i + " j = " + j + " cfFile[i][j].endline = " + cfFile[i][j].endline);
+                        }
+                    }
+
+
+            /*
             // Reading each clone file (each output file of Deckard) and excluding micro-clones
             int a, b;
             a = 0;
@@ -174,7 +197,10 @@ public class Deckard {
                     flag = 0;
                 }
             }
+            */
 
+
+            /*
             // Discard those clone classes which contain only one clone.
             m = 0;
             n = 0;
@@ -192,7 +218,7 @@ public class Deckard {
                 }
                 m++;
             }
-
+            */
 
             System.out.println("\ncfFile after excluding micro clones: \n");
             for (m = 0; m < cfFile.length; m++) {
@@ -206,6 +232,7 @@ public class Deckard {
                 }
             }
 
+            /*
             System.out.println("\ncfFile1 after excluding single clone classes: \n");
             for (m = 0; m < cfFile1.length; m++) {
                 for (n = 0; n < cfFile1.length; n++) {
@@ -217,6 +244,7 @@ public class Deckard {
                         break;
                 }
             }
+            */
 
         } catch (Exception e) {
             System.out.println("Error in testingDeckardInputFile() method = " + e);
