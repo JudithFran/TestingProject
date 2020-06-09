@@ -122,7 +122,8 @@ public class ConQat {
                         endLine = Integer.parseInt(str.split("[\"]+")[7].trim());
                         int cloneSize = (endLine-startLine)+1;
 
-                        if(cloneSize>4) {
+                        //if(cloneSize>4) { // For regular clones
+                        if(cloneSize<5) {    // For micro clones
                             flagRegular = 1;
                             cfFile[i][j].startline = Integer.parseInt(str.split("[\"]+")[5].trim());
                             //System.out.print("cfFile[" + i + "][" + j + "].startline = " + cfFile[i][j].startline);
