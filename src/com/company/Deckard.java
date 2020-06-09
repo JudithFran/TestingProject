@@ -16,7 +16,7 @@ class CodeFragmentDeckard {
 
     public void getFragment() {
 
-        String abs_filepath = "C:/Deckard_Clones/Brlcad/Repository/version-12/clusters/cluster_vdb_30_5_allg_0.95_30";
+        String abs_filepath = "C:/Deckard_Clones/Brlcad/Repository/version-12/" + filepath;
 
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(abs_filepath)));
@@ -43,7 +43,7 @@ class CodeFragmentDeckard {
 
     public void showFragment() {
 
-        String abs_filepath = "C:/Deckard_Clones/Brlcad/Repository/version-12/clusters/cluster_vdb_30_5_allg_0.95_30";
+        String abs_filepath = "C:/Deckard_Clones/Brlcad/Repository/version-12/" + filepath;
 
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(abs_filepath)));
@@ -131,6 +131,7 @@ public class Deckard {
                     break;
             }
 
+            /*
             // Previous buggy procedure for reading a clone file
             for (int i = 0; i < store2D.length; i++)
                 for (int j = 0; j < store2D.length; j++)
@@ -152,8 +153,10 @@ public class Deckard {
                         }
                     }
 
+             */
 
-            /*
+
+
             // Reading each clone file (each output file of Deckard) and excluding micro-clones
             int a, b;
             a = 0;
@@ -197,10 +200,10 @@ public class Deckard {
                     flag = 0;
                 }
             }
-            */
+            //*/
 
 
-            /*
+
             // Discard those clone classes which contain only one clone.
             m = 0;
             n = 0;
@@ -218,7 +221,7 @@ public class Deckard {
                 }
                 m++;
             }
-            */
+            //*/
 
             System.out.println("\ncfFile after excluding micro clones: \n");
             for (m = 0; m < cfFile.length; m++) {
@@ -232,7 +235,7 @@ public class Deckard {
                 }
             }
 
-            /*
+
             System.out.println("\ncfFile1 after excluding single clone classes: \n");
             for (m = 0; m < cfFile1.length; m++) {
                 for (n = 0; n < cfFile1.length; n++) {
@@ -244,7 +247,7 @@ public class Deckard {
                         break;
                 }
             }
-            */
+            //*/
 
         } catch (Exception e) {
             System.out.println("Error in testingDeckardInputFile() method = " + e);

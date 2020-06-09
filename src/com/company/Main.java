@@ -17,10 +17,10 @@ public class Main {
             long startTime = System.currentTimeMillis();
 
             Deckard dk = new Deckard();
-            dk.testingDeckardInputFile();
+            //dk.testingDeckardInputFile();
 
             ConQat cq = new ConQat();
-            //cq.testingConQatInputFile();
+            cq.testingConQatInputFile();
 
             long stopTime = System.currentTimeMillis();
             long elapsedTime = stopTime - startTime;
