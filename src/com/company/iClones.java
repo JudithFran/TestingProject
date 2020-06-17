@@ -76,6 +76,7 @@ public class iClones {
         try {
             CodeFragmentiClones[][] cfFile = new CodeFragmentiClones[1000][1000];
             CodeFragmentiClones[][] cfFile1 = new CodeFragmentiClones[1000][1000];
+            CodeFragmentiClones[][] cfFile2 = new CodeFragmentiClones[1000][1000];
 
             File fileiClones = new File("E:/iClones_Clones/Brlcad/12.txt"); //All Type
 
@@ -166,6 +167,36 @@ public class iClones {
                         break;
                 }
             }
+
+            // Discard those clone classes which contain only one clone.
+            m = 0;
+            for (int i = 0; i < cfFile1.length; i++) {
+                n = 0;
+                for (int j = 0; j < cfFile1.length; j++) {
+                    if (cfFile1[i][j] != null && cfFile1[i][1] != null) {
+                        cfFile2[m][n] = cfFile1[i][j];
+                        n++;
+                    }
+                    else if (cfFile1[i][j] != null && cfFile1[i][1] == null) {
+                        System.out.println("Single clone class found.");
+                        m--;
+                    }
+                }
+                m++;
+            }
+
+            System.out.println("\ncfFile2 after excluding single clone classes: \n");
+            for (m = 0; m < cfFile2.length; m++) {
+                for (n = 0; n < cfFile2.length; n++) {
+                    if (cfFile2[m][n] != null) {
+                        System.out.println("cfFile2[" + m + "][" + n + "] Revision = " + cfFile2[m][n].revision + " File Path = " + cfFile2[m][n].filepath
+                                + " Start Line = " + cfFile2[m][n].startline + " End Line = " + cfFile2[m][n].endline);
+                    }
+                    else
+                        break;
+                }
+            }
+            //*/
         } catch (Exception e) {
             System.out.println("Error in testingiClonesInputFile() method = " + e);
             e.printStackTrace();
