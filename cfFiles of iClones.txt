@@ -1,0 +1,141 @@
+cfFile[0][0] Revision = 12 File Path = jove/jove_misc.c Start Line = 859 End Line = 866
+cfFile[0][1] Revision = 12 File Path = jove/jove_misc.c Start Line = 873 End Line = 880
+
+cfFile[1][0] Revision = 12 File Path = librt/tree.c Start Line = 69 End Line = 73
+cfFile[1][1] Revision = 12 File Path = librt/tree.c Start Line = 76 End Line = 80
+
+cfFile[2][0] Revision = 12 File Path = librt/tree.c Start Line = 85 End Line = 94
+cfFile[2][1] Revision = 12 File Path = librt/tree.c Start Line = 102 End Line = 111
+
+cfFile[3][0] Revision = 12 File Path = jove/jove_term.c Start Line = 25 End Line = 43
+cfFile[3][1] Revision = 12 File Path = jove/termcap.h Start Line = 11 End Line = 29
+
+cfFile[4][0] Revision = 12 File Path = libbn/mat.c Start Line = 32 End Line = 335
+cfFile[4][1] Revision = 12 File Path = librt/mat.c Start Line = 32 End Line = 335
+
+cfFile[5][0] Revision = 12 File Path = jove/jove_re.c Start Line = 548 End Line = 554
+cfFile[5][1] Revision = 12 File Path = jove/jove_re.c Start Line = 560 End Line = 567
+
+cfFile[6][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 151 End Line = 163
+cfFile[6][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 211 End Line = 223
+
+cfFile[7][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 300 End Line = 306
+cfFile[7][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 354 End Line = 360
+
+cfFile[8][0] Revision = 12 File Path = jove/jove_extend.c Start Line = 156 End Line = 160
+cfFile[8][1] Revision = 12 File Path = jove/jove_extend.c Start Line = 160 End Line = 164
+
+cfFile[9][0] Revision = 12 File Path = jove/jove_extend.c Start Line = 293 End Line = 297
+cfFile[9][1] Revision = 12 File Path =  Start Line = -1 End Line = -1
+
+cfFile[10][0] Revision = 12 File Path = jove/jove_c.c Start Line = 49 End Line = 56
+cfFile[10][1] Revision = 12 File Path = jove/jove_c.c Start Line = 63 End Line = 70
+
+cfFile[11][0] Revision = 12 File Path = jove/jove_main.c Start Line = 83 End Line = 90
+cfFile[11][1] Revision = 12 File Path = jove/jove_main.c Start Line = 194 End Line = 201
+
+cfFile[12][0] Revision = 12 File Path = jove/jove_main.c Start Line = 179 End Line = 188
+cfFile[12][1] Revision = 12 File Path = jove/jove_main.c Start Line = 707 End Line = 716
+
+cfFile[13][0] Revision = 12 File Path = jove/jove_main.c Start Line = 339 End Line = 349
+cfFile[13][1] Revision = 12 File Path = jove/jove_main.c Start Line = 351 End Line = 361
+
+cfFile[14][0] Revision = 12 File Path = jove/jove_main.c Start Line = 542 End Line = 550
+cfFile[14][1] Revision = 12 File Path = jove/jove_main.c Start Line = 555 End Line = 563
+
+cfFile[15][0] Revision = 12 File Path = jove/jove_disp.c Start Line = 415 End Line = 423
+cfFile[15][1] Revision = 12 File Path = jove/jove_disp.c Start Line = 435 End Line = 443
+
+----------------------------------------------------------------------------------------
+
+cfFile1[0][0] Revision = 12 File Path = jove/jove_misc.c Start Line = 859 End Line = 866
+cfFile1[0][1] Revision = 12 File Path = jove/jove_misc.c Start Line = 873 End Line = 880
+
+cfFile1[1][0] Revision = 12 File Path = librt/tree.c Start Line = 69 End Line = 73
+cfFile1[1][1] Revision = 12 File Path = librt/tree.c Start Line = 76 End Line = 80
+
+cfFile1[2][0] Revision = 12 File Path = librt/tree.c Start Line = 85 End Line = 94
+cfFile1[2][1] Revision = 12 File Path = librt/tree.c Start Line = 102 End Line = 111
+
+cfFile1[3][0] Revision = 12 File Path = jove/jove_term.c Start Line = 25 End Line = 43
+cfFile1[3][1] Revision = 12 File Path = jove/termcap.h Start Line = 11 End Line = 29
+
+cfFile1[4][0] Revision = 12 File Path = libbn/mat.c Start Line = 32 End Line = 335
+cfFile1[4][1] Revision = 12 File Path = librt/mat.c Start Line = 32 End Line = 335
+
+cfFile1[5][0] Revision = 12 File Path = jove/jove_re.c Start Line = 548 End Line = 554
+cfFile1[5][1] Revision = 12 File Path = jove/jove_re.c Start Line = 560 End Line = 567
+
+cfFile1[6][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 151 End Line = 163
+cfFile1[6][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 211 End Line = 223
+
+cfFile1[7][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 300 End Line = 306
+cfFile1[7][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 354 End Line = 360
+
+cfFile1[8][0] Revision = 12 File Path = jove/jove_extend.c Start Line = 156 End Line = 160
+cfFile1[8][1] Revision = 12 File Path = jove/jove_extend.c Start Line = 160 End Line = 164
+
+cfFile1[9][0] Revision = 12 File Path = jove/jove_c.c Start Line = 49 End Line = 56
+cfFile1[9][1] Revision = 12 File Path = jove/jove_c.c Start Line = 63 End Line = 70
+
+cfFile1[10][0] Revision = 12 File Path = jove/jove_main.c Start Line = 83 End Line = 90
+cfFile1[10][1] Revision = 12 File Path = jove/jove_main.c Start Line = 194 End Line = 201
+
+cfFile1[11][0] Revision = 12 File Path = jove/jove_main.c Start Line = 179 End Line = 188
+cfFile1[11][1] Revision = 12 File Path = jove/jove_main.c Start Line = 707 End Line = 716
+
+cfFile1[12][0] Revision = 12 File Path = jove/jove_main.c Start Line = 339 End Line = 349
+cfFile1[12][1] Revision = 12 File Path = jove/jove_main.c Start Line = 351 End Line = 361
+
+cfFile1[13][0] Revision = 12 File Path = jove/jove_main.c Start Line = 542 End Line = 550
+cfFile1[13][1] Revision = 12 File Path = jove/jove_main.c Start Line = 555 End Line = 563
+
+cfFile1[14][0] Revision = 12 File Path = jove/jove_disp.c Start Line = 415 End Line = 423
+cfFile1[14][1] Revision = 12 File Path = jove/jove_disp.c Start Line = 435 End Line = 443
+
+-----------------------------------------------------------------------------------------
+
+cfFile2[0][0] Revision = 12 File Path = jove/jove_misc.c Start Line = 859 End Line = 866
+cfFile2[0][1] Revision = 12 File Path = jove/jove_misc.c Start Line = 873 End Line = 880
+
+cfFile2[1][0] Revision = 12 File Path = librt/tree.c Start Line = 69 End Line = 73
+cfFile2[1][1] Revision = 12 File Path = librt/tree.c Start Line = 76 End Line = 80
+
+cfFile2[2][0] Revision = 12 File Path = librt/tree.c Start Line = 85 End Line = 94
+cfFile2[2][1] Revision = 12 File Path = librt/tree.c Start Line = 102 End Line = 111
+
+cfFile2[3][0] Revision = 12 File Path = jove/jove_term.c Start Line = 25 End Line = 43
+cfFile2[3][1] Revision = 12 File Path = jove/termcap.h Start Line = 11 End Line = 29
+
+cfFile2[4][0] Revision = 12 File Path = libbn/mat.c Start Line = 32 End Line = 335
+cfFile2[4][1] Revision = 12 File Path = librt/mat.c Start Line = 32 End Line = 335
+
+cfFile2[5][0] Revision = 12 File Path = jove/jove_re.c Start Line = 548 End Line = 554
+cfFile2[5][1] Revision = 12 File Path = jove/jove_re.c Start Line = 560 End Line = 567
+
+cfFile2[6][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 151 End Line = 163
+cfFile2[6][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 211 End Line = 223
+
+cfFile2[7][0] Revision = 12 File Path = jove/jove_screen.c Start Line = 300 End Line = 306
+cfFile2[7][1] Revision = 12 File Path = jove/jove_screen.c Start Line = 354 End Line = 360
+
+cfFile2[8][0] Revision = 12 File Path = jove/jove_extend.c Start Line = 156 End Line = 160
+cfFile2[8][1] Revision = 12 File Path = jove/jove_extend.c Start Line = 160 End Line = 164
+
+cfFile2[9][0] Revision = 12 File Path = jove/jove_c.c Start Line = 49 End Line = 56
+cfFile2[9][1] Revision = 12 File Path = jove/jove_c.c Start Line = 63 End Line = 70
+
+cfFile2[10][0] Revision = 12 File Path = jove/jove_main.c Start Line = 83 End Line = 90
+cfFile2[10][1] Revision = 12 File Path = jove/jove_main.c Start Line = 194 End Line = 201
+
+cfFile2[11][0] Revision = 12 File Path = jove/jove_main.c Start Line = 179 End Line = 188
+cfFile2[11][1] Revision = 12 File Path = jove/jove_main.c Start Line = 707 End Line = 716
+
+cfFile2[12][0] Revision = 12 File Path = jove/jove_main.c Start Line = 339 End Line = 349
+cfFile2[12][1] Revision = 12 File Path = jove/jove_main.c Start Line = 351 End Line = 361
+
+cfFile2[13][0] Revision = 12 File Path = jove/jove_main.c Start Line = 542 End Line = 550
+cfFile2[13][1] Revision = 12 File Path = jove/jove_main.c Start Line = 555 End Line = 563
+
+cfFile2[14][0] Revision = 12 File Path = jove/jove_disp.c Start Line = 415 End Line = 423
+cfFile2[14][1] Revision = 12 File Path = jove/jove_disp.c Start Line = 435 End Line = 443

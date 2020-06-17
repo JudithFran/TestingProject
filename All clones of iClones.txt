@@ -1,0 +1,50 @@
+startLine = 431 endLine = 434 cloneSize = 4
+startLine = 438 endLine = 441 cloneSize = 4
+
+startLine = 859 endLine = 866 cloneSize = 8
+startLine = 873 endLine = 880 cloneSize = 8
+
+startLine = 69 endLine = 73 cloneSize = 5
+startLine = 76 endLine = 80 cloneSize = 5
+
+startLine = 85 endLine = 94 cloneSize = 10
+startLine = 102 endLine = 111 cloneSize = 10
+
+startLine = 25 endLine = 43 cloneSize = 19
+startLine = 11 endLine = 29 cloneSize = 19
+
+startLine = 32 endLine = 335 cloneSize = 304
+startLine = 32 endLine = 335 cloneSize = 304
+
+startLine = 548 endLine = 554 cloneSize = 7
+startLine = 560 endLine = 567 cloneSize = 8
+
+startLine = 151 endLine = 163 cloneSize = 13
+startLine = 211 endLine = 223 cloneSize = 13
+
+startLine = 300 endLine = 306 cloneSize = 7
+startLine = 354 endLine = 360 cloneSize = 7
+
+startLine = 156 endLine = 160 cloneSize = 5
+startLine = 160 endLine = 164 cloneSize = 5
+
+startLine = 293 endLine = 297 cloneSize = 5
+startLine = 335 endLine = 338 cloneSize = 4
+
+startLine = 49 endLine = 56 cloneSize = 8
+startLine = 63 endLine = 70 cloneSize = 8
+
+startLine = 83 endLine = 90 cloneSize = 8
+startLine = 194 endLine = 201 cloneSize = 8
+
+startLine = 179 endLine = 188 cloneSize = 10
+startLine = 707 endLine = 716 cloneSize = 10
+
+startLine = 339 endLine = 349 cloneSize = 11
+startLine = 351 endLine = 361 cloneSize = 11
+
+startLine = 542 endLine = 550 cloneSize = 9
+startLine = 555 endLine = 563 cloneSize = 9
+
+startLine = 415 endLine = 423 cloneSize = 9
+startLine = 435 endLine = 443 cloneSize = 9
