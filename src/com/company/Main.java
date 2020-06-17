@@ -20,7 +20,10 @@ public class Main {
             //dk.testingDeckardInputFile();
 
             ConQat cq = new ConQat();
-            cq.testingConQatInputFile();
+            //cq.testingConQatInputFile();
+
+            iClones ic = new iClones();
+            ic.testingiClonesInputFile();
 
             long stopTime = System.currentTimeMillis();
             long elapsedTime = stopTime - startTime;
