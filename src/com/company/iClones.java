@@ -115,8 +115,8 @@ public class iClones {
                         if(cloneSize>4) { // For regular clones
                         //if(cloneSize<5) {    // For micro clones
                             flagRegular = 1;
-                            cfFile[i][j].startline = startLine;
-                            cfFile[i][j].endline = endLine;
+                            cfFile[i][j].startline = Integer.parseInt(str.split("\\s+")[3].trim());
+                            cfFile[i][j].endline = Integer.parseInt(str.split("\\s+")[4].trim());
                             cfFile[i][j].filepath = str.split("\\s+")[2].trim();
                             j++;
                         }
