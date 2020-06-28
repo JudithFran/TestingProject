@@ -76,15 +76,16 @@ class CodeFragmentNiCad {
 public class NiCad {
     public void testingNiCadInputFile() {
         try {
+            // Here I use cfFile (a one dimensional array) to store each xml file. It will store each clone fragments (each source tag) in each row.
             CodeFragmentNiCad[] cfFile = new CodeFragmentNiCad[2000];
 
-            File regularXmlFile = new File("C:/RegularClones/Ctags/Repository/version-" + 12 + "_blocks-blind-clones/version-" + 12 + "_blocks-blind-clones-0.30-classes.xml"); //All Type
+            File regularXmlFile = new File("C:/RegularClones/Brlcad/Repository/version-" + 12 + "_blocks-blind-clones/version-" + 12 + "_blocks-blind-clones-0.30-classes.xml"); //All Type
 
             if(regularXmlFile.exists()) {
                 BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(regularXmlFile))); // All Type
 
                 String str;
-                int i = 0;
+                int i = 0, lineNumber = 0;
 
                 while((str = br.readLine()) != null){
                     if(str.contains("<source")){
@@ -100,16 +101,22 @@ public class NiCad {
                         cfFile[i].endline = Integer.parseInt(str.split("[\"]+")[5].trim());
                         //System.out.println(" i = " + i + " cfFile[i].endline = " + cfFile[i].endline);
 
+                        int cloneSize = (cfFile[i].endline-cfFile[i].startline) + 1;
+                        //System.out.println("cloneSize = " + cloneSize);
+
+                        lineNumber += cloneSize;
+                        //System.out.println("Total line numbers = " + lineNumber);
+
                         if (cfFile[i].filepath.contains("version-")) {
                             cfFile[i].filepath = cfFile[i].filepath.replaceAll(".ifdefed", "");
 
                             String[] filePath = cfFile[i].filepath.split("version-\\d*\\/");
                             cfFile[i].filepath = filePath[1];
 
-                            //System.out.println("cfFile[" + i + "] = " + cfFile[i].filepath + " Start Line = " + cfFile[i].startline
-                            //+ " End Line = " + cfFile[i].endline);
+                            System.out.println("cfFile[" + i + "] = " + cfFile[i].filepath + " Start Line = " + cfFile[i].startline
+                            + " End Line = " + cfFile[i].endline);
                         }
-
+                        i++;
                     }
 
                 }

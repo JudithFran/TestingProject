@@ -112,8 +112,8 @@ public class iClones {
 
                         System.out.println("startLine = " + startLine + " endLine = " + endLine + " cloneSize = " + cloneSize);
 
-                        if(cloneSize>4) { // For regular clones
-                        //if(cloneSize<5) {    // For micro clones
+                        //if(cloneSize>4) { // For regular clones
+                        if(cloneSize<5) {    // For micro clones
                             flagRegular = 1;
                             cfFile[i][j].startline = Integer.parseInt(str.split("\\s+")[3].trim());
                             cfFile[i][j].endline = Integer.parseInt(str.split("\\s+")[4].trim());
@@ -201,5 +201,95 @@ public class iClones {
             System.out.println("Error in testingiClonesInputFile() method = " + e);
             e.printStackTrace();
         }
+    }
+
+    public int countLineNumber(){
+        int lineNumber = 0;
+        try {
+            CodeFragmentiClones[] cfFile = new CodeFragmentiClones[5000];
+            CodeFragmentiClones[] cfFile1 = new CodeFragmentiClones[5000];
+
+            File fileiClones = new File("E:/iClones_Clones/Brlcad/12.txt"); //All Type
+
+            if (fileiClones.exists()) {
+
+                BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(fileiClones))); // All Type
+
+                String str = "";
+                int i = 0;
+
+                // Reading each clone file (each output file of iClones) and excluding micro-clones
+                while ((str = br.readLine()) != null) {
+                    if (str.contains(".c") || str.contains(".h") || str.contains(".java")) {
+                        int startLine, endLine;
+                        cfFile[i] = new CodeFragmentiClones();
+                        cfFile[i].revision = 12;
+
+                        startLine = Integer.parseInt(str.split("\\s+")[3].trim());
+                        endLine = Integer.parseInt(str.split("\\s+")[4].trim());
+                        int cloneSize = (endLine-startLine)+1;
+                        //System.out.println("startLine = " + startLine + " endLine = " + endLine + " cloneSize = " + cloneSize);
+
+                        //if(cloneSize>4) { // For regular clones
+                        if(cloneSize<5) { // For micro clones
+                            cfFile[i].startline = Integer.parseInt(str.split("\\s+")[3].trim());
+                            cfFile[i].endline = Integer.parseInt(str.split("\\s+")[4].trim());
+                            cfFile[i].filepath = str.split("\\s+")[2].trim();
+                            i++;
+                        }
+                    }
+
+                }
+            }
+
+            /*
+            System.out.println("\ncfFile after excluding micro clones: \n");
+            for (int m = 0; m < cfFile.length; m++) {
+                if (cfFile[m] != null) {
+                    System.out.println("cfFile[" + m + "] Revision = " + cfFile[m].revision + " File Path = " + cfFile[m].filepath
+                        + " Start Line = " + cfFile[m].startline + " End Line = " + cfFile[m].endline);
+                }
+                else
+                    break;
+            }
+            */
+
+            // Discard empty clones from the cfFile array
+            int m = 0;
+            for (int i = 0; i < cfFile.length; i++) {
+                if (cfFile[i] != null && cfFile[i].startline != -1) {
+                    cfFile1[m] = cfFile[i];
+                }
+                else if (cfFile[i] != null && cfFile[i].startline == -1) {
+                    m--;
+                }
+                m++;
+            }
+
+            /*
+            System.out.println("\ncfFile1 after excluding empty clones: \n");
+            for (m = 0; m < cfFile1.length; m++) {
+                if (cfFile1[m] != null) {
+                    System.out.println("cfFile1[" + m + "] Revision = " + cfFile1[m].revision + " File Path = " + cfFile1[m].filepath
+                        + " Start Line = " + cfFile1[m].startline + " End Line = " + cfFile1[m].endline);
+                }
+                else
+                    break;
+            }
+            */
+
+            for (int i = 0; i < cfFile1.length; i++){
+                if (cfFile1[i] != null) {
+                    int cloneSize = cfFile1[i].endline-cfFile1[i].startline+1;
+                    lineNumber += cloneSize;
+                }
+            }
+
+        } catch(Exception e){
+            System.out.println("Error in method countLineNumber()." + e);
+            e.printStackTrace();
+            System.exit(0);
+        }
+        return lineNumber;
     }
 }

@@ -24,6 +24,10 @@ public class Main {
 
             iClones ic = new iClones();
             ic.testingiClonesInputFile();
+            System.out.println("Total lines of Codes = " + ic.countLineNumber());
+
+            NiCad nc = new NiCad();
+            //nc.testingNiCadInputFile();
 
             long stopTime = System.currentTimeMillis();
             long elapsedTime = stopTime - startTime;
